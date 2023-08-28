@@ -1,0 +1,16 @@
+types of algorithms
+- iterative
+- recursive
+- deterministic
+- randomized
+
+
+//double loop
+int sum = 0
+for (int i = i; i <=n; i++){
+    for (int j = j; j <= n; j++){
+        sum = sum + 1;
+    }
+}
+//operations for this are
+2n * (n+1)/2 + 1 = O * (n^2)
